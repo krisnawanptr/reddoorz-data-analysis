@@ -6,7 +6,7 @@ Final Project MSIB Data Analytics for Business - Bitlabs Academy
 
 ## 🛠️ Tech Stack & Tools
 
-* **Python**: Data Preprocessing, Feature Engineering (`stay duration`, `lead time`, `occupancy rate`), & EDA
+* **Python**: Data Preprocessing, Feature Engineering, & EDA
 * **SQL**: Advanced Analytics, Aggregations, & SQL Views (PostgreSQL / MySQL via DBeaver)
 * **Tableau**: Interactive Business & Property Performance Dashboard
 
@@ -21,6 +21,6 @@ reddoorz-data-analytics/
 ├── documents/        # Laporan 
 ├── notebooks/        # Jupyter Notebook (Data Preprocessing & EDA)
 ├── sql/              # Script Query SQL & Views
-├── requirements.txt  # Daftar dependensi 
-└── README.md         # Ringkasan proyek
+├── requirements.txt  # Daftar Dependensi 
+└── README.md         # Ringkasan Proyek
 ```
